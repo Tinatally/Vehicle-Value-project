@@ -19,4 +19,5 @@ Summary Results:
 |4|XGBoost| 1725.45 |0.006 |min 27s|
 |5|CatBoost| 2189.89| 0.006 |5min 14s|
 |6|Light GBM | 1740.53 | 0.007 |45.1 s|
+
 Bases on our interest, the model that performed best was LightGBM which took 45.1s of CPU time to train with Linear regression preforming poorly. 
